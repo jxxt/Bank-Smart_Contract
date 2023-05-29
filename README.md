@@ -1,1 +1,1 @@
-# Bank-Smart_Contract
+a simple ethereum based Bank Smart Contract 
